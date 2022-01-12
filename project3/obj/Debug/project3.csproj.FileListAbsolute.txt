@@ -1,0 +1,30 @@
+C:\Users\mpoly\source\repos\project3\project3\bin\Debug\project3.exe.config
+C:\Users\mpoly\source\repos\project3\project3\bin\Debug\project3.exe
+C:\Users\mpoly\source\repos\project3\project3\bin\Debug\project3.pdb
+C:\Users\mpoly\source\repos\project3\project3\obj\Debug\project3.csprojAssemblyReference.cache
+C:\Users\mpoly\source\repos\project3\project3\obj\Debug\project3.Form1.resources
+C:\Users\mpoly\source\repos\project3\project3\obj\Debug\project3.Properties.Resources.resources
+C:\Users\mpoly\source\repos\project3\project3\obj\Debug\project3.csproj.GenerateResource.cache
+C:\Users\mpoly\source\repos\project3\project3\obj\Debug\project3.csproj.CoreCompileInputs.cache
+C:\Users\mpoly\source\repos\project3\project3\obj\Debug\project3.exe
+C:\Users\mpoly\source\repos\project3\project3\obj\Debug\project3.pdb
+C:\Users\mpoly\Desktop\proj3 Myroslav Poliakov 53661\project3\bin\Debug\project3.exe.config
+C:\Users\mpoly\Desktop\proj3 Myroslav Poliakov 53661\project3\bin\Debug\project3.exe
+C:\Users\mpoly\Desktop\proj3 Myroslav Poliakov 53661\project3\bin\Debug\project3.pdb
+C:\Users\mpoly\Desktop\proj3 Myroslav Poliakov 53661\project3\obj\Debug\project3.csprojAssemblyReference.cache
+C:\Users\mpoly\Desktop\proj3 Myroslav Poliakov 53661\project3\obj\Debug\project3.Form1.resources
+C:\Users\mpoly\Desktop\proj3 Myroslav Poliakov 53661\project3\obj\Debug\project3.Properties.Resources.resources
+C:\Users\mpoly\Desktop\proj3 Myroslav Poliakov 53661\project3\obj\Debug\project3.csproj.GenerateResource.cache
+C:\Users\mpoly\Desktop\proj3 Myroslav Poliakov 53661\project3\obj\Debug\project3.csproj.CoreCompileInputs.cache
+C:\Users\mpoly\Desktop\proj3 Myroslav Poliakov 53661\project3\obj\Debug\project3.exe
+C:\Users\mpoly\Desktop\proj3 Myroslav Poliakov 53661\project3\obj\Debug\project3.pdb
+C:\Users\mpoly\Desktop\Proj c#\proj3 Myroslav Poliakov 53661\project3\bin\Debug\project3.exe.config
+C:\Users\mpoly\Desktop\Proj c#\proj3 Myroslav Poliakov 53661\project3\bin\Debug\project3.exe
+C:\Users\mpoly\Desktop\Proj c#\proj3 Myroslav Poliakov 53661\project3\bin\Debug\project3.pdb
+C:\Users\mpoly\Desktop\Proj c#\proj3 Myroslav Poliakov 53661\project3\obj\Debug\project3.csprojAssemblyReference.cache
+C:\Users\mpoly\Desktop\Proj c#\proj3 Myroslav Poliakov 53661\project3\obj\Debug\project3.Form1.resources
+C:\Users\mpoly\Desktop\Proj c#\proj3 Myroslav Poliakov 53661\project3\obj\Debug\project3.Properties.Resources.resources
+C:\Users\mpoly\Desktop\Proj c#\proj3 Myroslav Poliakov 53661\project3\obj\Debug\project3.csproj.GenerateResource.cache
+C:\Users\mpoly\Desktop\Proj c#\proj3 Myroslav Poliakov 53661\project3\obj\Debug\project3.csproj.CoreCompileInputs.cache
+C:\Users\mpoly\Desktop\Proj c#\proj3 Myroslav Poliakov 53661\project3\obj\Debug\project3.exe
+C:\Users\mpoly\Desktop\Proj c#\proj3 Myroslav Poliakov 53661\project3\obj\Debug\project3.pdb
